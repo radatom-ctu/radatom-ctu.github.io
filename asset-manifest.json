@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cearun/static/css/main.e9561fec.chunk.css",
+    "main.js": "/cearun/static/js/main.18761f78.chunk.js",
+    "runtime-main.js": "/cearun/static/js/runtime-main.01c2c7fe.js",
+    "static/css/2.944ef2d5.chunk.css": "/cearun/static/css/2.944ef2d5.chunk.css",
+    "static/js/2.1da3e0e4.chunk.js": "/cearun/static/js/2.1da3e0e4.chunk.js",
+    "index.html": "/cearun/index.html",
+    "static/js/2.1da3e0e4.chunk.js.LICENSE.txt": "/cearun/static/js/2.1da3e0e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c2c7fe.js",
+    "static/css/2.944ef2d5.chunk.css",
+    "static/js/2.1da3e0e4.chunk.js",
+    "static/css/main.e9561fec.chunk.css",
+    "static/js/main.18761f78.chunk.js"
+  ]
+}
